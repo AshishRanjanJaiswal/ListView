@@ -1,0 +1,9 @@
+c:\users\ashish.ranjan\source\repos\ListView\ListView\ListView\bin\Debug\netstandard2.0\ListView.deps.json
+c:\users\ashish.ranjan\source\repos\ListView\ListView\ListView\bin\Debug\netstandard2.0\ListView.dll
+c:\users\ashish.ranjan\source\repos\ListView\ListView\ListView\bin\Debug\netstandard2.0\ListView.pdb
+c:\users\ashish.ranjan\source\repos\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.csprojAssemblyReference.cache
+c:\users\ashish.ranjan\source\repos\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.csproj.CoreCompileInputs.cache
+c:\users\ashish.ranjan\source\repos\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.AssemblyInfoInputs.cache
+c:\users\ashish.ranjan\source\repos\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.AssemblyInfo.cs
+c:\users\ashish.ranjan\source\repos\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.dll
+c:\users\ashish.ranjan\source\repos\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.pdb
